@@ -2,8 +2,6 @@
   Projects.
 </h1>
 
-> Projects that I have worked on and during Makers and outside Makers.
-
 |**Project**                   |**Resources**                                 |**Description**|**Tech**|
 |  :------------:              |   :----:                                     |    :---:      | :--:   |
 | **RPS** <br/> <a href='https://sarpong-rps-challenge.herokuapp.com'><img src='https://user-images.githubusercontent.com/37377831/56474732-b6a92380-6475-11e9-9315-484609993fea.jpg' width='250'></a> <br/> <a href='https://github.com/SarpongAbasimi/rps-challenge'><img src='https://user-images.githubusercontent.com/37377831/56474819-35529080-6477-11e9-9e63-4cdf0055c340.png' width='60'></a>|  Weekend Challenge <br/> **Week 3** <br/>Solo<br/>**2days** | A **responsive** game app that allows users to enter their name before the game, make a choice by choosing either (rock, paper and scissors) form a select option. The game then chooses a a random option and then a winner is declared.|<img src='https://user-images.githubusercontent.com/37377831/55040138-0fc09b80-501f-11e9-86f6-3a6794a9ce31.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/55040312-b9079180-501f-11e9-87c6-eb2d319fa049.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56474907-8616b900-6478-11e9-9182-56482df93411.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56474933-eb6aaa00-6478-11e9-868c-723b87d33c6e.png' width='50'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56475037-c0815580-647a-11e9-8493-80f33608095b.png' width='30'> <br/> <img src='https://user-images.githubusercontent.com/37377831/56475060-09d1a500-647b-11e9-9e30-3b091f7a6d23.png' width='30'>|
